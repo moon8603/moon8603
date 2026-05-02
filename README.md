@@ -29,10 +29,7 @@ I build end-to-end web applications — from pixel-perfect interfaces to reliabl
 ### [Job Tracker Application](https://www.moonkim.dev)
 > Solo project. Track every application in one place. Update statuses, manage interviews, and stay organized. See your job search progress with simple charts and insights.
 
-[![Moon Kim Portfolio](https://github.com/user-attachments/assets/e765b9c3-41de-40ad-a491-e469558f8cc6)](https://moonkim.dev)
-<img width="1286" height="912" alt="image" src="https://github.com/user-attachments/assets/7b68c8cc-2758-4ad5-99b3-c26336e154f8" />
-<img width="1176" height="866" alt="image" src="https://github.com/user-attachments/assets/2af0faab-a38f-4fce-bc7f-9cda2d039a91" />
-
+[![Moon Kim Portfolio](https://github.com/user-attachments/assets/2f2272e0-6a01-4e29-bdb9-4391e9bef5d9)](https://moonkim.dev)
 
 **Stack:** MongoDB · Express · React(Vite) · Zustand · Node.js · OAuth2.0 · i18n · TanStack Query · Vitest · Self-hosting (Dokploy + Hostinger)
 🔗 [Live Site](https://www.moonkim.dev)
@@ -40,7 +37,7 @@ I build end-to-end web applications — from pixel-perfect interfaces to reliabl
 ---
 
 ### Senior personal customized meal management AI agent Application
-> Collaborated with a team of five to develop a senior-focused meal management app with specific health and nutritional needs for a University Capstone Design course.
+> Collaborated with a team of four to develop a senior-focused meal management app with specific health and nutritional needs for a University Capstone Design course.
 
 https://github.com/user-attachments/assets/b10a15d5-c005-4a17-b997-69b6e595c953
 
@@ -49,6 +46,13 @@ https://github.com/user-attachments/assets/b10a15d5-c005-4a17-b997-69b6e595c953
 🔗 [Capstone Site](https://capstone.uos.ac.kr/cdc/index.php/1%EB%B6%84%EB%B0%98-%EB%B0%B1%EC%84%B8%EB%B0%A5%EC%83%81)
 
 ---
+
+### Cinema Management Web Application
+> Collaborated with a team of three to develo pa web app to manage movie schedules, seat booking, and basic admin features
+
+https://github.com/user-attachments/assets/8582eb36-cc74-42f6-8674-33d0803a9925
+
+**Stack:** Oracle Database Express(Oracle XE 8) · Spring Boot · React(Vite) · Zustand
 
 ## 📬 Get in Touch
 
